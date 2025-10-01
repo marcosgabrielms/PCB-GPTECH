@@ -1,0 +1,77 @@
+# ================================= #
+# Arquivos gerados pelo Sistema Operacional
+# ================================= #
+.DS_Store
+Thumbs.db
+
+# =============================== #
+# Backups e Arquivos Temporários do KiCad
+# =============================== #
+# Diretório de backups
+*-backups/
+
+# Estilo antigo de arquivos de backup
+*.bak
+*.kicad_pcb-bak
+
+# Diretório de arquivos salvos automaticamente
+#auto_saved_files#/
+
+# Arquivos de Lock (evitam que o mesmo arquivo seja aberto duas vezes)
+*.lck
+
+# Cache de informações de footprints
+fp-info-cache
+
+# ================================= #
+# Configurações Locais do Projeto KiCad
+# ================================= #
+# Armazenam configurações do seu ambiente pessoal (janelas abertas, etc.)
+*.kicad_prl
+*.kicad_prb
+
+# =============================================== #
+# Arquivos de Fabricação e Saída (Gerbers, Plots, etc.)
+# =============================================== #
+# Estes arquivos são GERADOS a partir dos seus arquivos fonte.
+# A boa prática é ignorá-los e gerá-los novamente quando necessário.
+# Se você criar uma pasta para eles (ex: "gerbers/"), adicione o nome da pasta aqui.
+# fab/
+# gerbers/
+# output/
+# plot/
+
+# Extensões comuns de arquivos de fabricação
+*.gbr
+*.gbl
+*.gbo
+*.gbp
+*.gbs
+*.gtl
+*.gto
+*.gtp
+*.gts
+*.gm*
+*.drl
+*.xnc
+*.pos
+*.rpt
+*.ger
+
+# ================================= #
+# Outros Arquivos Gerados
+# ================================= #
+# PDFs, SVGs, listas de materiais (BOM), etc.
+*.pdf
+*.svg
+*.png
+*.plt
+*.step
+*.stp
+*.wrl
+*.bom
+*.csv
+*.net
+
+# Saídas de simulação SPICE
+*.cir.*
